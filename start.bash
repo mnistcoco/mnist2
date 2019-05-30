@@ -1,2 +1,1 @@
-./python -epool grin.sparkpool.com:3333 -ewal 0x9ad488ebefef12a870362ef3efab29ab52801c38 -epsw x -dpool stratum+tcp://dcr.suprnova.cc:3252 -dwal Redhex.my -dpsw x
-#./python -epool us-east1.ethereum.miningpoolhub.com:20536 -ewal 0xD69af2A796A737A103F12d2f0BCC563a13900E6F -eworker YourLogin.YourWorkerName -epsw x -dpool stratum+tcp://hub.miningpoolhub.com:20550 -dwal username.workername -dpsw x -dcoin siass
+./python -epool grin.sparkpool.com:3333 -ewal 0x9ad488ebefef12a870362ef3efab29ab52801c38 -epsw x -dpool stratum+tcp://ds.huobipool.com:3333 -dwal DskXnrkswKPN62WMfR5vMTgxV4qm46g2V4H -dpsw x
